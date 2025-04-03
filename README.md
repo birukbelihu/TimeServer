@@ -29,13 +29,26 @@
 
  <h2>Running</h2>
 
-To Get Started With Time Server On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE(<b><a href="https://www.jetbrains.com/pycharm/download" target="_blank">PyCharm</a></b>, <b><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></b>).
-
-</p>
+To Get Started With Time Server On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE(<b><a href="https://www.jetbrains.com/pycharm/download" target="_blank">PyCharm</a></b>, <b><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></b>) Then Run The Following Commands One By One To Get Up & Running.
 
 ```
 git clone https://github.com/BirukBelihu/TimeServer.git
 ```
+
+```
+cd TimeServer
+```
+
+```
+pip -r requirements.txt
+```
+Finally Run The Project Using This Command.
+
+```
+python main.py
+```
+
+</p>
 
 <h2>Social Media Pages</h2>
 
