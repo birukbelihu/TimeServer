@@ -48,11 +48,11 @@ Finally Run The Project Using This Command.
 python main.py
 ```
 
-```
 Sample Request
 
 ```
 http://YOUR_IP_ADDRESS:PORT/api/time/current/zone?timeZone=Africa/Addis_Ababa
+```
 
 </p>
 
