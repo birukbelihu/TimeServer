@@ -51,7 +51,27 @@ python main.py
 Sample Request
 
 ```
-http://YOUR_IP_ADDRESS:PORT/api/time/current/zone?timeZone=Africa/Addis_Ababa
+http://IP_ADDRESS:PORT/api/time/current/zone?timeZone=Africa/Addis_Ababa
+```
+
+Response
+
+```
+{
+  "date": "03/04/2025",
+  "dateTime": "2025-04-03T19:52:05.599935+03:00",
+  "day": 3,
+  "dayOfWeek": "Thursday",
+  "dstActive": false,
+  "hour": 19,
+  "milliSeconds": 599,
+  "minute": 52,
+  "month": 4,
+  "seconds": 5,
+  "time": "19:52",
+  "timeZone": "Africa/Addis_Ababa",
+  "year": 2025
+}
 ```
 
 </p>
