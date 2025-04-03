@@ -12,19 +12,24 @@
 
 <ul>
   <li>Highly Customizable</li>
-  <li>Get Comprehensive List Of Time Information Such As
+  <li>Get Comprehensive List Of Time Data Such As
     <ul>
+    <li>Miliseconds</li>
     <li>Seconds</li>
     <li>Minutes</li>
+    <ul>Hour</ul>
+    <li>Day</li>
+    <li>Month</li>
+    <li>Year</li>
+    <li>Date & Many More</li>
     </ul>
   </li>
-  <li>No Input Limit</li>
-  <li>Clear Text</li>
+  <li>Can Be Easily Integrated With Android, Web & Any Project With Simple HTTP Request.</li>
 </ul>
 
- <h2>Build Instruction</h2>
+ <h2>Running</h2>
 
-To Get Started With Average Calculator On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE(<b><a href="https://www.jetbrains.com/idea/download" target="_blank">Intellij IDEA</a></b>, <b><a href="https://www.eclipse.org" target="_blank">Eclipse IDE</a></b>, <b><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></b>).
+To Get Started With Time Server On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE(<b><a href="https://www.jetbrains.com/pychamr/download" target="_blank">PyCharm</a></b>, <b><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></b>).
 
 </p>
 
