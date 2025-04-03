@@ -17,7 +17,7 @@
     <li>Miliseconds</li>
     <li>Seconds</li>
     <li>Minutes</li>
-    <ul>Hour</ul>
+    <li>Hour</li>
     <li>Day</li>
     <li>Month</li>
     <li>Year</li>
@@ -29,12 +29,12 @@
 
  <h2>Running</h2>
 
-To Get Started With Time Server On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE(<b><a href="https://www.jetbrains.com/pychamr/download" target="_blank">PyCharm</a></b>, <b><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></b>).
+To Get Started With Time Server On Your Local Machine Simply Clone The Project & Open It Using Any Of Your Favorite IDE(<b><a href="https://www.jetbrains.com/pycharm/download" target="_blank">PyCharm</a></b>, <b><a href="https://code.visualstudio.com/Download" target="_blank">Visual Studio Code</a></b>).
 
 </p>
 
 ```
-git clone https://github.com/BirukBelihu/AverageCalculator.git
+git clone https://github.com/BirukBelihu/TimeServer.git
 ```
 
 <h2>Social Media Pages</h2>
