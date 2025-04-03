@@ -11,10 +11,12 @@
 <h2>Features</h2>
 
 <ul>
-  <li>Highly Customizables</li>
-  <li>Get Comprehensive List Of Time Information Such A
-    <ul>Seconds</ul>
-    <ul>Minutes</ul>
+  <li>Highly Customizable</li>
+  <li>Get Comprehensive List Of Time Information Such As
+    <ul>
+    <li>Seconds</li>
+    <li>Minutes</li>
+    </ul>
   </li>
   <li>No Input Limit</li>
   <li>Clear Text</li>
