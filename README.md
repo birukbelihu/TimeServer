@@ -48,7 +48,7 @@ Finally Run The Project Using This Command.
 python main.py
 ```
 
-Sample Request
+Sample Request Using <a href="https://curl.se/" target="_blank">cURL</a> Or <a href="https://www.postman.com/" target="_blank">Postman</a>
 
 ```
 http://IP_ADDRESS:PORT/api/time/current/zone?timeZone=Africa/Addis_Ababa
