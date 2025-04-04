@@ -51,7 +51,7 @@ python main.py
 Sample Request Using <a href="https://curl.se/" target="_blank">cURL</a> Or <a href="https://www.postman.com/" target="_blank">Postman</a>
 
 ```
-http://IP_ADDRESS:PORT/api/time/current/zone?timeZone=Africa/Addis_Ababa
+curl http://IP_ADDRESS:PORT/api/time/current/zone?timeZone=Africa/Addis_Ababa
 ```
 
 Response
