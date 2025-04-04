@@ -78,7 +78,7 @@ Response
 
 <h2>Social Media Pages</h2>
 
-If You Want More Android App Development Tutorials & Projects Check My Social Media Pages.
+If You Want Android App Development Tutorials & Projects Check My Social Media Pages.
 
 <b>Telegram</b> :- https://t.me/androiddevstutorial
 
