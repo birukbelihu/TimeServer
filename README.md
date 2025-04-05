@@ -74,6 +74,16 @@ Response
 }
 ```
 
+Get All The Available Time Zones
+
+```
+curl http://IP_ADDRESS:PORT/api/time/current/zone?timeZone=Africa/Addis_Ababa
+
+```
+
+Response
+
+```
 </p>
 
 <h2>Social Media Pages</h2>
