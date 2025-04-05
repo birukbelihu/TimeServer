@@ -53,7 +53,7 @@ Go Inside The Project
 cd TimeServer
 ```
 
-Install Required Libraries
+Install Required Dependencies
 
 ```
 pip install -r requirements.txt
