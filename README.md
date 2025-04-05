@@ -93,7 +93,9 @@ Response
     "Africa/Bamako",
     "Africa/Bangui",
     "Africa/Banjul",
-    ...
+    .
+    .
+    .
 ]
 ```
 </p>
