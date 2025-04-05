@@ -31,7 +31,7 @@
 
 To Get Started With Time Server On Your Local Machine Follow This Simple Steps One By One To Get Up & Running.
 
-Make Sure You Have <b><a href="https://git-scm.com/" target="_blank">Git</a></b> & Python Installed On Your Machine.
+Make Sure You Have <b><a href="https://git-scm.com/" target="_blank">Git</a></b> & <b><a href="https://python.org" target="_blank">Python</a></b> Installed On Your Machine.
 
 ```
 git --version
