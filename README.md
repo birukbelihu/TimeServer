@@ -83,6 +83,19 @@ curl http://IP_ADDRESS:PORT/api/time/current/zone/timeZones
 Response
 
 ```
+[
+    "Africa/Abidjan",
+    "Africa/Accra",
+    "Africa/Addis_Ababa",
+    "Africa/Algiers",
+    "Africa/Asmara",
+    "Africa/Asmera",
+    "Africa/Bamako",
+    "Africa/Bangui",
+    "Africa/Banjul",
+    ...
+]
+```
 </p>
 
 <h2>Social Media Pages</h2>
