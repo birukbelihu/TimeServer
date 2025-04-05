@@ -41,18 +41,25 @@ git --version
 python --version
 ```
 
+Clone The Repository
+
 ```
 git clone https://github.com/BirukBelihu/TimeServer.git
 ```
+
+Go Inside The Project
 
 ```
 cd TimeServer
 ```
 
+Install Required Libraries
+
 ```
 pip install -r requirements.txt
 ```
-Finally Run The Project Using This Command.
+
+Run The Project
 
 ```
 python main.py
