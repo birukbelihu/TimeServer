@@ -77,7 +77,7 @@ Response
 Get All The Available Time Zones
 
 ```
-curl http://IP_ADDRESS:PORT/api/time/current/zone?timeZone=Africa/Addis_Ababa
+curl http://IP_ADDRESS:PORT/api/time/current/zone/timeZones
 ```
 
 Response
