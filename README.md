@@ -59,7 +59,7 @@ Install Required Dependencies
 pip install -r requirements.txt
 ```
 
-Run The Project
+Start The Server
 
 ```
 python main.py
