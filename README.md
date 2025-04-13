@@ -5,7 +5,7 @@
 <body>
 <h2>Time Server</h2>
 
-<p>A Simple <b><a href="https://flask.palletsprojects.com/" target="_blank">Flask</a></b> Time Server To Fetch Realtime Time Data Without Any Third Party API</p>
+<p>A Simple <b><a href="https://flask.palletsprojects.com/" target="_blank">Flask</a></b> Time Server To Get Realtime Time Data Without Any Third Party API</p>
 
 <p>
 <h2>Features</h2>
