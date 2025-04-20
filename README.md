@@ -59,7 +59,7 @@ Install Required Dependencies
 pip install -r requirements.txt
 ```
 
-Start The Server
+Start The Time Server
 
 ```
 python main.py
