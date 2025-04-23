@@ -65,7 +65,7 @@ Start The Time Server
 python main.py
 ```
 
-Sample Request Using <b><a href="https://curl.se/" target="_blank">cURL</a></b> Or <b><a href="https://www.postman.com/" target="_blank">Postman</a></b>
+Sample Request Using <b><a href="https://curl.se/" target="_blank">cURL</a></b>
 
 ```
 curl http://IP_ADDRESS:PORT/api/time/current/zone?timeZone=Africa/Addis_Ababa
