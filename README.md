@@ -4,10 +4,10 @@
 </head>
 <body>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/BirukBelihu/AverageCalculator)
-![GitHub forks](https://img.shields.io/github/forks/BirukBelihu/AverageCalculator)
-![GitHub issues](https://img.shields.io/github/issues/BirukBelihu/AverageCalculator)
-![GitHub license](https://img.shields.io/github/license/BirukBelihu/AverageCalculator)
+![GitHub Repo stars](https://img.shields.io/github/stars/BirukBelihu/TimeServer)
+![GitHub forks](https://img.shields.io/github/forks/BirukBelihu/TimeServer)
+![GitHub issues](https://img.shields.io/github/issues/BirukBelihu/TimeServer)
+![GitHub license](https://img.shields.io/github/license/BirukBelihu/TimeServer)
 
 <h2>Time Server</h2>
 
