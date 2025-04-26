@@ -3,6 +3,12 @@
 <head>
 </head>
 <body>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/BirukBelihu/AverageCalculator)
+![GitHub forks](https://img.shields.io/github/forks/BirukBelihu/AverageCalculator)
+![GitHub issues](https://img.shields.io/github/issues/BirukBelihu/AverageCalculator)
+![GitHub license](https://img.shields.io/github/license/BirukBelihu/AverageCalculator)
+
 <h2>Time Server</h2>
 
 <p>A Simple <b><a href="https://flask.palletsprojects.com/" target="_blank">Flask</a></b> Time Server To Get Realtime Time Information Without Any Third Party API</p>
