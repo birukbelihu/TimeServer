@@ -71,6 +71,14 @@ Start The Time Server
 python main.py
 ```
 
+If You're Accessing The API From External Clients(Android Or Web) Don't Forget To Expose The API Using Ngrok.
+
+```
+ngrok http 5000
+```
+
+<b>N.B</b> Replace 5000 With Your Own PORT If You're Using Different Port Number. 
+
 Sample Request Using <b><a href="https://curl.se/" target="_blank">cURL</a></b>
 
 ```
