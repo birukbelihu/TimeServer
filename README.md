@@ -14,7 +14,7 @@
   <li>Highly Customizable</li>
   <li>Get Comprehensive List Of Time Data Such As
     <ul>
-    <li>Miliseconds</li>
+    <li>Milliseconds</li>
     <li>Seconds</li>
     <li>Minutes</li>
     <li>Hour</li>
@@ -27,7 +27,7 @@
   <li>Can Be Easily Integrated With Android, Web & Any Project With Simple HTTP Request.</li>
 </ul>
 
- <h2>Running</h2>
+ Running</h2>
 
 To Get Started With Time Server On Your Local Machine Follow This Simple Steps One By One To Get Up & Running.
 
@@ -112,6 +112,12 @@ Response
     "Africa/Banjul",
     ...
 ]
+```
+
+Get Server Status
+
+```
+ http://IP_ADDRESS:PORT/api/health
 ```
 </p>
 

@@ -11,14 +11,19 @@ def home():
     return redirect(url_for("get_current_time"))
 
 
-@app.route("/api/time/current/zone", methods=["GET", "POST"])
+@app.route("/api/health")
+def health():
+    return "OK", 200
+
+
+@app.route("/api/time/current/zone", methods=["GET"])
 def get_current_time():
-    time_zone = request.args.get("timeZone", "Africa/Addis_Ababa")
+    time_zone = request.args.get("timeZone", "UTC")
 
     try:
         timezone = pytz.timezone(time_zone)
     except pytz.UnknownTimeZoneError:
-        return {"error": "Unknown Time Zone Provided"}
+        return jsonify({"error": "Unknown Time Zone Provided"}), 400
 
     current_time = datetime.now(timezone)
 
@@ -40,7 +45,7 @@ def get_current_time():
     return jsonify(response)
 
 
-@app.route("/api/time/current/zone/timeZones", methods=["GET", "POST"])
+@app.route("/api/time/current/zone/timeZones", methods=["GET"])
 def get_available_time_zones():
     return jsonify(pytz.all_timezones)
 
