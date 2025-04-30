@@ -71,7 +71,7 @@ Start The Time Server
 python main.py
 ```
 
-If You're Accessing The API From External Clients(Android Or Web) Don't Forget To Expose The API Using Ngrok.
+If You're Accessing The API From External Clients(Android Or Web) Don't Forget To Expose The API Using <a href="https://ngrok.com" target="_blank">Ngrok</a>.
 
 ```
 ngrok http 5000
