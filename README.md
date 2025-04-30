@@ -3,9 +3,15 @@
 <head>
 </head>
 <body>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/BirukBelihu/TimeServer)
+![GitHub forks](https://img.shields.io/github/forks/BirukBelihu/TimeServer)
+![GitHub issues](https://img.shields.io/github/issues/BirukBelihu/TimeServer)
+![GitHub license](https://img.shields.io/github/license/BirukBelihu/TimeServer)
+
 <h2>Time Server</h2>
 
-<p>A Simple <b><a href="https://flask.palletsprojects.com/" target="_blank">Flask</a></b> Time Server To Fetch Realtime Time Data Without Any Third Party API</p>
+<p>A Simple <b><a href="https://flask.palletsprojects.com/" target="_blank">Flask</a></b> Time Server To Get Realtime Time Information Without Any Third Party API</p>
 
 <p>
 <h2>Features</h2>
@@ -59,13 +65,21 @@ Install Required Dependencies
 pip install -r requirements.txt
 ```
 
-Run The Project
+Start The Time Server
 
 ```
 python main.py
 ```
 
-Sample Request Using <b><a href="https://curl.se/" target="_blank">cURL</a></b> Or <b><a href="https://www.postman.com/" target="_blank">Postman</a></b>
+If You're Accessing The API From External Clients(Android Or Web) Don't Forget To Expose The API Using <a href="https://ngrok.com" target="_blank">Ngrok</a>.
+
+```
+ngrok http 5000
+```
+
+<b>N.B</b> Replace 5000 With Your Own PORT If You're Using Different Port Number. 
+
+Sample Request Using <b><a href="https://curl.se/" target="_blank">cURL</a></b>
 
 ```
 curl http://IP_ADDRESS:PORT/api/time/current/zone?timeZone=Africa/Addis_Ababa
@@ -135,9 +149,6 @@ If You Want Android App Development Tutorials & Projects Check My Social Media P
 
 <b>LinkTree</b> :-
 https://linktr.ee/androiddeveloperspage
-
-<h2>Support</h2>
-<a href="https://www.buymeacoffee.com/birukbelihu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
  </body>
  </html>		
 
