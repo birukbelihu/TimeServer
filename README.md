@@ -154,7 +154,7 @@ Run The Server
 docker run -p 5000:5000 timeserver
 ```
 
-The Rest Of The Steps Are The Same
+The Rest Of The Steps Are Same
 </p>
 
 <h2>Social Media Pages</h2>
