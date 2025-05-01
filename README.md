@@ -140,7 +140,7 @@ Run Tests Using Pytest
 pytest test_server.py
 ```
 
-To Run In Docker Container Follow This Steps.
+To Run TimeServer In The Docker Container Follow This Steps.
 
 Build Docker Image
 
@@ -148,7 +148,7 @@ Build Docker Image
 docker build -t timeserver .
 ```
 
-Run Time Server
+Run The Server
 
 ```
 docker run -p 5000:5000 timeserver
