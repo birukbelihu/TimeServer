@@ -133,6 +133,12 @@ Get Server Status
 ```
  http://IP_ADDRESS:PORT/api/status
 ```
+
+Run Tests Using Pytest
+
+```
+pytest test_server.py
+```
 </p>
 
 <h2>Social Media Pages</h2>
