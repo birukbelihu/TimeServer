@@ -139,6 +139,22 @@ Run Tests Using Pytest
 ```
 pytest test_server.py
 ```
+
+To Run In Docker Container Follow This Steps.
+
+Build Docker Image
+
+```
+docker build -t timeserver .
+```
+
+Run Time Server
+
+```
+docker run -p 5000:5000 timeserver
+```
+
+The Rest Of The Steps Are The Same
 </p>
 
 <h2>Social Media Pages</h2>
