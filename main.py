@@ -11,9 +11,9 @@ def home():
     return redirect(url_for("get_current_time"))
 
 
-@app.route("/api/health")
+@app.route("/api/status")
 def health():
-    return "OK", 200
+    return "<h1>TimeServer Is Running...</h1>", 200
 
 
 @app.route("/api/time/current/zone", methods=["GET"])

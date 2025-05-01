@@ -131,7 +131,7 @@ Response
 Get Server Status
 
 ```
- http://IP_ADDRESS:PORT/api/health
+ http://IP_ADDRESS:PORT/api/status
 ```
 </p>
 
