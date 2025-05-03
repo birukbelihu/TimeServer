@@ -34,7 +34,7 @@
   <li>Can Be Easily Integrated With Android, Web & Any Project With Simple HTTP Request.</li>
 </ul>
 
- Running</h2>
+ <h2>Running</h2>
 
 To Get Started With Time Server On Your Local Machine Follow This Simple Steps One By One To Get Up & Running.
 
