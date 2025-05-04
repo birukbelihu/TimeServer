@@ -33,7 +33,7 @@
   <li>Can Be Easily Integrated With Android, Web & Any Project With Simple HTTP Request.</li>
 </ul>
 
-<h2>Running</h2>
+ Running</h2>
 
 To Get Started With Time Server On Your Local Machine Follow This Simple Steps One By One To Get Up & Running.
 
@@ -133,10 +133,6 @@ Get Server Status
 ```
  http://IP_ADDRESS:PORT/api/status
 ```
-
-Response
-
- <h1>TimeServer Is Running...</h1>
 
 Run Tests Using Pytest
 
