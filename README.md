@@ -31,7 +31,7 @@
     </ul>
   </li>
   <li>Supports 500+ World Time Zones</li>
-  <li>Can Be Easily Integrated With Android, Web & Any Project With Simple HTTP Request.</li>
+  <li>Can Be Easily Integrated With Android, Web & Any Project With A Simple HTTP Request.</li>
 </ul>
 
  <h2>Running</h2>
