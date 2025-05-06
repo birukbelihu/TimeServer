@@ -160,7 +160,7 @@ The Rest Of The Steps Are Same
 
 <h2>Social Media Pages</h2>
 
-If You Want Python Check My Social Media Pages.
+If You Want Python Tutorials Check My Social Media Pages.
 
 <b>Telegram</b> :- 
 https://t.me/pythondevstutorials
