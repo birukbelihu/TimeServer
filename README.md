@@ -160,18 +160,13 @@ The Rest Of The Steps Are Same
 
 <h2>Social Media Pages</h2>
 
-If You Want Android App Development Tutorials & Projects Check My Social Media Pages.
+If You Want Python Check My Social Media Pages.
 
-<b>Telegram</b> :- https://t.me/androiddevstutorial
+<b>Telegram</b> :- 
+https://t.me/pythondevstutorials
 
-<b>YouTube</b> :- https://youtube.com/@AndroidDevsTutorials
-
-<b>Blogger</b> :- https://androiddevelopersb.blogspot.com
-
-<b>WhatsApp</b> :- https://whatsapp.com/channel/0029VaXEKtjJ3jv1OrvgOA3K
-
-<b>LinkTree</b> :-
-https://linktr.ee/androiddeveloperspage
+<b>YouTube</b> :- 
+https://youtube.com/@pythondevs?si=_CZxaEBwDkQEj4je
 
 ## License
 
