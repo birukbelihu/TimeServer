@@ -1,5 +1,4 @@
 from datetime import datetime, timedelta
-
 import pytz
 from flask import Flask, redirect, url_for, request, jsonify
 
@@ -11,12 +10,12 @@ def home():
     return redirect(url_for("get_current_time"))
 
 
-@app.route("/api/status")
+@app.route("/api/v1/status")
 def health():
     return "<h1>TimeServer Is Running...</h1>", 200
 
 
-@app.route("/api/time/current/zone", methods=["GET"])
+@app.route("/api/v1/time/current/zone", methods=["GET"])
 def get_current_time():
     time_zone = request.args.get("timeZone", "UTC")
 
@@ -45,7 +44,7 @@ def get_current_time():
     return jsonify(response)
 
 
-@app.route("/api/time/current/zone/timeZones", methods=["GET"])
+@app.route("/api/v1/time/current/zone/timeZones", methods=["GET"])
 def get_available_time_zones():
     return jsonify(pytz.all_timezones)
 

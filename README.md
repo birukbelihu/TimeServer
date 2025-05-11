@@ -30,10 +30,11 @@
     <li>Date & Many More</li>
     </ul>
   </li>
-  <li>Can Be Easily Integrated With Android, Web & Any Project With Simple HTTP Request.</li>
+  <li>Supports 500+ World Time Zones</li>
+  <li>Can Be Easily Integrated With Android, Web & Any Project With A Simple HTTP Request.</li>
 </ul>
 
- Running</h2>
+ <h2>Running</h2>
 
 To Get Started With Time Server On Your Local Machine Follow This Simple Steps One By One To Get Up & Running.
 
@@ -71,7 +72,7 @@ Start The Time Server
 python main.py
 ```
 
-If You're Calling The API From External Clients(Android Or Web) Don't Forget To Expose The The Port Using <a href="https://ngrok.com" target="_blank">Ngrok</a>.
+If You're Calling The API From External Clients(Android Or Web) Don't Forget To Expose The Port Using <a href="https://ngrok.com" target="_blank">Ngrok</a>.
 
 ```
 ngrok http 5000
@@ -82,7 +83,7 @@ ngrok http 5000
 Sample Request Using <b><a href="https://curl.se/" target="_blank">cURL</a></b>
 
 ```
-curl http://IP_ADDRESS:PORT/api/time/current/zone?timeZone=Africa/Addis_Ababa
+curl http://IP_ADDRESS:PORT/api/v1/time/current/zone?timeZone=Africa/Addis_Ababa
 ```
 
 Response
@@ -108,7 +109,7 @@ Response
 Get All The Available Time Zones
 
 ```
-curl http://IP_ADDRESS:PORT/api/time/current/zone/timeZones
+curl http://IP_ADDRESS:PORT/api/v1/time/current/zone/timeZones
 ```
 
 Response
@@ -131,7 +132,7 @@ Response
 Get Server Status
 
 ```
- http://IP_ADDRESS:PORT/api/status
+ http://IP_ADDRESS:PORT/api/v1/status
 ```
 
 Run Tests Using Pytest
@@ -140,7 +141,7 @@ Run Tests Using Pytest
 pytest test_server.py
 ```
 
-To Run In Docker Container Follow This Steps.
+To Run TimeServer In <a href="https://www.docker.com/" target="_blank">Docker</a> Container Follow This Steps.
 
 Build Docker Image
 
@@ -148,29 +149,28 @@ Build Docker Image
 docker build -t timeserver .
 ```
 
-Run Time Server
+Run The Server
 
 ```
 docker run -p 5000:5000 timeserver
 ```
 
-The Rest Of The Steps Are The Same
+The Rest Of The Steps Are Same
 </p>
 
 <h2>Social Media Pages</h2>
 
-If You Want Android App Development Tutorials & Projects Check My Social Media Pages.
+If You Want Python Tutorials Check My Social Media Pages.
 
-<b>Telegram</b> :- https://t.me/androiddevstutorial
+<b>Telegram</b> :- 
+https://t.me/pythondevstutorials
 
-<b>YouTube</b> :- https://youtube.com/@AndroidDevsTutorials
+<b>YouTube</b> :- 
+https://youtube.com/@pythondevs?si=_CZxaEBwDkQEj4je
 
-<b>Blogger</b> :- https://androiddevelopersb.blogspot.com
+## License
 
-<b>WhatsApp</b> :- https://whatsapp.com/channel/0029VaXEKtjJ3jv1OrvgOA3K
-
-<b>LinkTree</b> :-
-https://linktr.ee/androiddeveloperspage
+This project is licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file for more details.
  </body>
  </html>		
 
