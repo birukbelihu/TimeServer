@@ -1,52 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-</head>
-<body>
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/BirukBelihu/TimeServer)
 ![GitHub forks](https://img.shields.io/github/forks/BirukBelihu/TimeServer)
 ![GitHub issues](https://img.shields.io/github/issues/BirukBelihu/TimeServer)
 ![GitHub license](https://img.shields.io/github/license/BirukBelihu/TimeServer)
 
-<h2>Time Server</h2>
+## Time Server
 
-<p>A Simple <b><a href="https://flask.palletsprojects.com/" target="_blank">Flask</a></b> Time Server To Get Realtime Time Information Without Any Third Party API</p>
+A Simple [Flask](https://flask.palletsprojects.com/) Time Server to get real-time time information without any third-party API.
 
-<p>
-<h2>Features</h2>
+---
 
-<ul>
-  <li>Highly Customizable</li>
-  <li>Get Comprehensive List Of Time Data Such As
-    <ul>
-    <li>Milliseconds</li>
-    <li>Seconds</li>
-    <li>Minutes</li>
-    <li>Hour</li>
-    <li>Day</li>
-    <li>Month</li>
-    <li>Year</li>
-    <li>Date & Many More</li>
-    </ul>
-  </li>
-  <li>Supports 500+ World Time Zones</li>
-  <li>Can Be Easily Integrated With Android, Web & Any Project With A Simple HTTP Request.</li>
-</ul>
+## Features
 
- <h2>Running</h2>
+- Highly Customizable
+- Get Comprehensive List Of Time Data Such As:
+  - Milliseconds
+  - Seconds
+  - Minutes
+  - Hour
+  - Day
+  - Month
+  - Year
+  - Date & Many More
+- Supports 500+ World Time Zones
+- Can be easily integrated with Android, Web, or any project via a simple HTTP request.
 
-To Get Started With Time Server On Your Local Machine Follow This Simple Steps One By One To Get Up & Running.
+---
 
-Make Sure You Have <b><a href="https://git-scm.com/" target="_blank">Git</a></b> & <b><a href="https://python.org" target="_blank">Python</a></b> Installed On Your Machine.
+## Running
 
-```
+To get started with Time Server on your local machine, follow these steps:
+
+Make sure you have [Git](https://git-scm.com/) and [Python](https://python.org) installed:
+
+```bash
 git --version
-```
-
-```
 python --version
-```
 
 Clone The Repository
 
@@ -165,7 +153,5 @@ The Rest Of The Steps Are Same
 ## License
 
 This project is licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file for more details.
- </body>
- </html>		
 
 
