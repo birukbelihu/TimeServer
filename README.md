@@ -35,6 +35,7 @@ Make sure you have [Git](https://git-scm.com/) and [Python](https://python.org) 
 ```bash
 git --version
 python --version
+```
 
 Clone The Repository
 
