@@ -5,7 +5,7 @@
 
 ## Time Server
 
-A Simple [Flask](https://flask.palletsprojects.com/) Time Server to get real-time time information without any third-party API.
+A Simple [Flask](https://flask.palletsprojects.com/) Time API to get real-time time information without any third-party API.
 
 ---
 
