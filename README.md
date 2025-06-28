@@ -26,6 +26,12 @@ A Simple [Flask](https://flask.palletsprojects.com/) Time API to get real-time t
 
 ---
 
+## Usage
+
+TimeServer Is Live On Render
+
+[TimeServer](https://timeserver-y2yg.onrender.com)
+
 ## Running
 
 To get started with Time Server on your local machine, follow these steps:
